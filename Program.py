@@ -8,7 +8,7 @@ import Algoritma2
 import openpyxl
 import pandas as pd
 from ProductionSequence import ProductionSequence
-
+### Whatttttt
 
 Xcampain = []
 Xcampain_rev = []
